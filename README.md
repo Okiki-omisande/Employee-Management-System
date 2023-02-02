@@ -1,4 +1,4 @@
-# EmployeeManagementSystem---CRUD
+# Employee Management System
 
 This is an employee management system with APIs where users/managers have the ability to 
 
